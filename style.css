@@ -1,0 +1,35 @@
+.container{
+    text-align: center;
+}
+
+#value{
+    font-size: 5rem;
+    font-weight: bolder;
+    top: 0;
+}
+
+h1{
+    font-size: 5rem;
+}
+
+.btn-div{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    background: transparent;
+    height: 50px;
+    width: 200px;
+    border: 3px solid;
+    border-radius: 5px;
+    font-size: 2rem;
+    margin-right: 20px;
+    transition: .5s;
+}
+
+.btn:hover{
+    color: white;
+    background-color: black;
+
+}
